@@ -1,0 +1,16 @@
+{
+  "name": "hauntedvalleyserver",
+  "version": "1.0.0",
+  "description": "Server functions for Haunted Valley.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shane Sepac",
+  "license": "MIT",
+  "dependencies": {
+    "deep-object-diff": "^1.1.7",
+    "dgram": "^1.0.1",
+    "luxon": "^2.3.1"
+  }
+}
